@@ -1,0 +1,13 @@
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\bin\Debug\netcoreapp3.1\ImageSiteScraperConsole.exe
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\bin\Debug\netcoreapp3.1\ImageSiteScraperConsole.deps.json
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\bin\Debug\netcoreapp3.1\ImageSiteScraperConsole.runtimeconfig.json
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\bin\Debug\netcoreapp3.1\ImageSiteScraperConsole.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\bin\Debug\netcoreapp3.1\ImageSiteScraperConsole.dll
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\bin\Debug\netcoreapp3.1\ImageSiteScraperConsole.pdb
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.dll
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.pdb
+C:\Users\Jacob\source\repos\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.genruntimeconfig.cache

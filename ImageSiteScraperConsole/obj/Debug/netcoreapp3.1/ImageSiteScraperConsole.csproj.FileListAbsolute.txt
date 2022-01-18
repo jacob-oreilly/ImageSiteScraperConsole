@@ -29,3 +29,4 @@ E:\code2022\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp
 E:\code2022\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.dll
 E:\code2022\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.pdb
 E:\code2022\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.genruntimeconfig.cache
+E:\code2022\ImageSiteScraperConsole\ImageSiteScraperConsole\obj\Debug\netcoreapp3.1\ImageSiteScraperConsole.csproj.AssemblyReference.cache

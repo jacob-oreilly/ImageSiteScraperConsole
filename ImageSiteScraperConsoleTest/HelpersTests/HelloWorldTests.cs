@@ -1,8 +1,8 @@
 using System;
 using Xunit;
-using ImageSiteScraperConsole;
+using ImageSiteScraperConsole.Helpers;
 
-namespace ImageSiteScraperConsoleTest
+namespace ImageSiteScraperConsoleTest.HelpersTests
 {
     public class HelloWorldTests
     {

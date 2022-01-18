@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d264d80-0dbc-4991-a494-025c9c41d6ae": {
+      "ProjectGuid": "6d264d80-0dbc-4991-a494-025c9c41d6ae",
+      "DisplayName": "ImageSiteScraperConsole",
+      "ColorIndex": 0
+    },
+    "e830efec-8aca-4631-b699-dbbacfbb7465": {
+      "ProjectGuid": "e830efec-8aca-4631-b699-dbbacfbb7465",
+      "DisplayName": "ImageSiteScraperConsoleTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
